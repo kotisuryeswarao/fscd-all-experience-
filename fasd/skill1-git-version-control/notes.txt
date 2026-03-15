@@ -1,0 +1,10 @@
+Git Version Control - Notes
+============================
+Git is a distributed version control system.
+Key commands:
+  git init        - Initialize repository
+  git add .       - Stage all changes
+  git commit -m   - Commit with message
+  git push        - Push to remote
+  git checkout -b - Create new branch
+  git merge       - Merge branches
